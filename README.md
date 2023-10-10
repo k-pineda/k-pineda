@@ -40,7 +40,7 @@ I'm a recent graduate from a Full Stack Web Development bootcamp with a passion 
 Feel free to explore my repositories to see some of the projects I've worked on during my bootcamp journey. If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
 
 📫 **Contact Me:**
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/karen-pineda-6604511a9)
+- LinkedIn: [My LinkedIn Profile]([www.linkedin.com/in/karen-pineda-6604511a9](https://www.linkedin.com/in/karen-pineda-6604511a9/))
 - Email: karenp9310@gmail.com
 
 Let's connect and build amazing web experiences together!
